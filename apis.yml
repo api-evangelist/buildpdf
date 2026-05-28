@@ -1,0 +1,32 @@
+aid: buildpdf
+name: BuildPDF
+description: "Convert HTML, images, and text to PDF"
+url: https://buildpdf.co/api/docs
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Documents & Productivity"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Documents And Productivity
+  - Public APIs
+apis:
+  - name: BuildPDF
+    description: "Convert HTML, images, and text to PDF"
+    humanURL: https://buildpdf.co/api/docs
+    baseURL: https://buildpdf.co/api/docs
+    tags:
+      - Documents And Productivity
+    properties:
+      - type: Documentation
+        url: https://buildpdf.co/api/docs
+common:
+  - type: Website
+    url: https://buildpdf.co/api/docs
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
