@@ -1,4 +1,16 @@
 aid: buildpdf
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/buildpdf.png
 name: BuildPDF
 description: "Convert HTML, images, and text to PDF"
 url: https://buildpdf.co/api/docs
