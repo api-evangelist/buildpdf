@@ -40,7 +40,8 @@ apis:
   - name: BuildPDF
     description: "Convert HTML, images, and text to PDF"
     humanURL: https://buildpdf.co/api/docs
-    tags:
+    tags: []
+    tags_raw:
       - Documents And Productivity
     properties:
       - type: Documentation
